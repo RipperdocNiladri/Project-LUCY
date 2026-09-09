@@ -97,7 +97,7 @@ LUCY also includes simple entertainment commands such as:
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/RipperdocNiladri/Project-LUCY.git
 cd Project-LUCY
 ```
 
