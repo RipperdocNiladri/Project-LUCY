@@ -236,8 +236,6 @@ Built with Python, curiosity, and a little bit of futuristic ambition. ⚡🤖
 
 LUCY A.I. is an evolving personal project. Features, architecture, and capabilities are continuously being improved.
 
-> *"The goal isn't to build JARVIS overnight — it's to build LUCY one feature at a time."* 🤖
-
 ```
 
 This version is ready to use as your repository's **`README.md`** and avoids overclaiming features that aren't implemented yet.
